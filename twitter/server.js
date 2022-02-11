@@ -32,10 +32,10 @@ app.use(express.json());
 //Upon start a webhook is registered with twitter
 //Upon closure the webhook is removed from twitter
 
-const twitterAPIKey = "Place your consumer key here";
-const twitterSecretAPIKey = "Place you secret consumer key here";
-const twitterAccessToken = "Place your access token here";
-const twitterSecretAccessToken = "Place your secret access token here";
+const twitterAPIKey = "MjvRTEPOdKsbrnfiTiCnwhlms";
+const twitterSecretAPIKey = "sLVcBxchoYBXp8dTxFQEln84HFJtRs6Vz3kMdBhIklSADJiars";
+const twitterAccessToken = "1459968842453565442-UPQZyfU2MxltKtkOREM2298h7cF5Uj";
+const twitterSecretAccessToken = "D1wayar5TsDQOZbTvOiMheEXc9DsNUTS4qfHHdO7gfB3G";
 const targetUrl = "Place your server's url here";
 const projectId = "faq-bykw";
 const environmentName = "Place your twitter environment name here";
